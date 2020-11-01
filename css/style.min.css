@@ -880,6 +880,10 @@ footer a:hover {
     height: 40px;
     margin: 0 auto;
   }
+  .subheader_btn:hover {
+    background-image: -webkit-gradient(linear, left bottom, left top, from(#1eacc7), to(#4ce2ff));
+    background-image: linear-gradient(to top, #1eacc7 0%, #4ce2ff 100%);
+  }
   .promo {
     padding: 210px 0 35px 0;
   }
@@ -888,6 +892,10 @@ footer a:hover {
   }
   .promo_subheader {
     font-size: 23px;
+  }
+  .promo_btn:hover {
+    background-image: -webkit-gradient(linear, left bottom, left top, from(#1eacc7), to(#4ce2ff));
+    background-image: linear-gradient(to top, #1eacc7 0%, #4ce2ff 100%);
   }
   .car_1 .header {
     font-size: 35px;
